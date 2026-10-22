@@ -258,3 +258,7 @@ This tests all 5 critical subsystems:
 3. `test_03_executive_agent`: Validates C-Suite briefing generation and scorecard telemetry.
 4. `test_04_fastapi_endpoints`: Verifies HTTP 200 responses across core REST endpoints.
 5. `test_05_data_ingestion_and_cleaning`: Tests dirty data sanitization, deduplication, real-time ingestion, and batch file uploads.
+
+Project Images:
+
+![1792666814710](image/README/1792666814710.png)![1792666830260](image/README/1792666830260.png)![1792666854299](image/README/1792666854299.png)![1792666877958](image/README/1792666877958.png)![1792666908404](image/README/1792666908404.png)
